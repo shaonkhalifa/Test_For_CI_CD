@@ -211,7 +211,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaonkhalifa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaonkhalifa&theme=tokyonight_duo" alt="shaonkhalifa" /></p>
 
 </details>
   
@@ -222,7 +222,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Md.Shaon Khalifa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaonkhalifa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaonkhalifa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaonkhalifa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="shaonkhalifa" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -233,7 +233,7 @@
 
 ----
 	
-<Md.Shaon's github activity graph(https://github-readme-activity-graph.cyclic.app/graph?username=shaonkhalifa&theme=github)
+<!--<Md.Shaon's github activity graph(https://github-readme-activity-graph.cyclic.app/graph?username=shaonkhalifa&theme=github)-->
 <!--(https://github.com/7oSkaaa/github-readme-activity-graph)-->
 
  
