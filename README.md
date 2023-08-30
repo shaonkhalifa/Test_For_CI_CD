@@ -55,7 +55,7 @@
 </div>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Programming_Languages.gif?raw=true" width=5%> Programming languages
+### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Programming_Languages.gif?raw=true" width=3%> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -80,7 +80,7 @@
   </a>-->
 </p>
 
-### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Front_End.gif?raw=true" width=5%>  Frontend & Backend Development
+### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Front_End.gif?raw=true" width=3%>  Frontend & Backend Development
 <p align="center"> 
   &emsp;
   <a href="https://www.w3.org/" target="_blank"> 
@@ -144,14 +144,14 @@
     &emsp;
     <a href="#"><img alt="AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white" /></a>
     &emsp;
-    <a href="#"><img alt="AWS" src="[plastic](https://img.shields.io/badge/Amazon_AWS-FF9900?style=plasticlogo=amazonaws&logoColor=white)" /></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plasticlogo=amazonaws&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white"/></a>
       &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>
 </p>
 
- ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/IDEs.gif?raw=true" width=5%> IDEs
+ ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/IDEs.gif?raw=true" width=3%> IDEs
  
 <p align="center">
 	  &emsp;
@@ -166,7 +166,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
+ ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/CP_PS.gif?raw=true" width=3%> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
