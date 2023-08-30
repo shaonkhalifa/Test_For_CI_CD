@@ -55,7 +55,7 @@
 </div>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -80,7 +80,7 @@
   </a>-->
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend & Backend Development
+### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Front_End.gif?raw=true" width=5%>  Frontend & Backend Development
 <p align="center"> 
   &emsp;
   <a href="https://www.w3.org/" target="_blank"> 
@@ -166,7 +166,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
+ ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -183,7 +183,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
+ ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/OS.gif?raw=true" width=5%>  Operating Systems
  
 <p align="center">
 	  &emsp;
@@ -233,7 +233,8 @@
 
 ----
 	
-<!--[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)-->
+<Md.Shaon's github activity graph(https://github-readme-activity-graph.cyclic.app/graph?username=shaonkhalifa&theme=github)
+<!--(https://github.com/7oSkaaa/github-readme-activity-graph)-->
 
  
 </details>
