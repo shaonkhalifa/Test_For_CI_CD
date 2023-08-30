@@ -116,7 +116,7 @@
    </a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 <p align="center">
   &emsp;
@@ -138,7 +138,7 @@
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+    <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=plastic&logo=bitbucket&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
     &emsp;
@@ -151,7 +151,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+ ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/IDEs.gif?raw=true" width=5%> IDEs
  
 <p align="center">
 	  &emsp;
