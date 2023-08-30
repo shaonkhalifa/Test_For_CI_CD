@@ -33,3 +33,11 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is <!--[MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)-->.
 - :boom: You can visit [MY WEBSITE]().
 <br>
+
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
