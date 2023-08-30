@@ -8,7 +8,7 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{shaonkhalifa}/count.svg" alt="shaonkhalifa :: Visitor's Count" /></p>
-<p align="center"> 
+<!--<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=shaonkhalifa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	
 	<!---
@@ -20,7 +20,7 @@
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
 	</a>-->
 
-</p>
+</p>-->
 ## <picture><img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
